@@ -1,4 +1,4 @@
-package com.kh.project.Dto;
+package com.kh.project.dto;
 
 public class PocketmonDto {
 
