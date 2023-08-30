@@ -1,4 +1,4 @@
-package com.kh.project.poketmondto;
+package com.kh.project.PoketmonDto;
 
 
 public class PoketmonDto {
