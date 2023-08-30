@@ -1,4 +1,4 @@
-package com.kh.project.baseballDto;
+package com.kh.project.baseballdto;
 
 public class MemberDto {
 	private String memberId;
