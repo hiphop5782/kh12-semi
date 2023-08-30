@@ -6,9 +6,9 @@ import lombok.Data;
 public class CoffeeDto {
 private String MaGa;
 private String compose;
-private int price;
+private String price;
 private int size;
-
-
 // 충돌 좀 나라
+
+
 }
