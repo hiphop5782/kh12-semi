@@ -8,7 +8,7 @@ private String MaGa;
 private String compose;
 private int price;
 private int size;
-//수정
+//수정 //수정
 
 
 // 충돌 좀 나라
