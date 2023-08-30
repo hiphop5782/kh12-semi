@@ -52,7 +52,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
+
 		
 		<!-- 프로젝트에 JSP를 사용하기 위한 라이브러리 -->
 		<dependency>
@@ -71,9 +71,7 @@
 			<version>1.18.28</version>
 			<scope>provided</scope>
 		</dependency>
-		
-=======
->>>>>>> branch 'jhcho' of https://github.com/hiphop5782/kh12-semi
+
 	</dependencies>
 
 	<build>
