@@ -52,10 +52,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 		
 		<!-- 프로젝트에 JSP를 사용하기 위한 라이브러리 -->
 		<dependency>
@@ -75,10 +71,6 @@
 			<scope>provided</scope>
 		</dependency>
 		
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 	</dependencies>
 
 	<build>
